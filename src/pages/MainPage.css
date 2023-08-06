@@ -1,0 +1,66 @@
+.home__section {
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 130px;
+}
+.home__section .profilePhoto {
+  border-radius: 50%;
+  width: 300px;
+}
+.home__section h2 {
+  font-weight: 800;
+  font-size: 2rem;
+  text-align: center;
+}
+.home__section p {
+  text-align: center;
+  color: #888888;
+  padding: 0.5rem;
+}
+.home__section svg {
+  color: red;
+}
+.home__section .myLinks svg {
+  color: #343434;
+  padding: 0 5px;
+  transition: transform 0.2s;
+}
+.home__section .myLinks svg:hover {
+  transform: scale(1.2);
+}
+
+.tech__stack {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+.tech__stack .tech__list {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  padding: 0;
+  align-items: center;
+  gap: 15px;
+}
+.tech__stack .tech__list .tech__item .techLogo {
+  width: 50px;
+}
+
+@media screen and (min-width: 768px) {
+  .home__section {
+    margin-top: 145px;
+    gap: 15px;
+  }
+}
+@media screen and (min-width: 992px) {
+  .tech__stack {
+    flex-direction: row;
+    align-items: center;
+    gap: 80px;
+  }
+  .tech__stack .tech__list {
+    gap: 65px;
+  }
+}/*# sourceMappingURL=MainPage.css.map */
