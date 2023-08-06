@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Portfolio-React/static/css/main.970f8399.css",
+    "main.js": "/Portfolio-React/static/js/main.68c8aa3d.js",
+    "static/media/HBO__Img.png": "/Portfolio-React/static/media/HBO__Img.1b38459e4d5954063238.png",
+    "static/media/Cafezim_img.png": "/Portfolio-React/static/media/Cafezim_img.433666996afd40159232.png",
+    "static/media/aboutMe__img.png": "/Portfolio-React/static/media/aboutMe__img.e9dcc62c40330ca4505c.png",
+    "static/media/Pokedex__Img.png": "/Portfolio-React/static/media/Pokedex__Img.4c542967950e10641366.png",
+    "index.html": "/Portfolio-React/index.html",
+    "main.970f8399.css.map": "/Portfolio-React/static/css/main.970f8399.css.map",
+    "main.68c8aa3d.js.map": "/Portfolio-React/static/js/main.68c8aa3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.970f8399.css",
+    "static/js/main.68c8aa3d.js"
+  ]
+}
